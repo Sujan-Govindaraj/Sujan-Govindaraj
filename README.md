@@ -1,16 +1,31 @@
-## Hi there 👋
+# 🏆 My HackerRank Profile & Badges
 
-<!--
-**Sujan-Govindaraj/Sujan-Govindaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub showcase of HackerRank achievements!  
+Here, I highlight my skills, challenges, and the badges I've earned through coding practice and competitions.
 
-Here are some ideas to get you started:
+## 📊 HackerRank Stats
+- **Username:** [@sg5597](https://www.hackerrank.com/profile/sg5597)
+- **Languages:** Python | Java 
+- **Badges Earned:** Python | Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏅 Badges
+Here are some of the badges I've earned on HackerRank:
+
+![Java Badge](https://www.hackerrank.com/badges/path/to/badge1.png)
+![Python Badge](https://www.hackerrank.com/badges/path/to/badge2.png)
+
+> You can get your badge images from your HackerRank profile by clicking on the badges and copying the image link.
+
+## 📈 My Progress
+- Solved **Java easy and medium** challenges
+- Earned **53** points
+
+- - Solved **Python Hard** challenge
+- Earned **80** points
+
+## 💡 Connect with Me
+- [HackerRank Profile](https://www.hackerrank.com/profile/sg5597)
+
+---
+
+> “Strive not to be a success, but rather to be of value.” – Albert Einstein
